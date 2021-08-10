@@ -49,9 +49,9 @@ let getHtml (htmlFile: string) : HtmlDocument option =
         printfn $"Error: {ex}"
         None
 
-HtmlDocument.Load "doesnotexist"
+//HtmlDocument.Load "doesnotexist"
 
-getHtml "doesnotexist"
+//getHtml "doesnotexist"
 
 let htmlPath = Path.Join(__SOURCE_DIRECTORY__,"fsharp-github-repo.html")
 
