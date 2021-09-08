@@ -1,0 +1,3 @@
+This lecture doesn't have any code associated with it.
+
+For 'Recap' lectures use the 'after' code for the main lecture.
