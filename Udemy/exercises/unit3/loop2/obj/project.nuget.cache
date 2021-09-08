@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaEj9QMQ/bjdHrZ0A73PsqFnSNyxzQDcfMTMB1jYu0jUuBh28ugKp3FIRsLW92QPHoyVJQZ8wWf9PmC/AQUVdA==",
+  "success": true,
+  "projectFilePath": "/Users/jajati.sahoo/Documents/code/fsharp/Udemy/exercises/unit3/loop2/loop2.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jajati.sahoo/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
