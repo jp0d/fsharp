@@ -3,11 +3,29 @@
 open System
 open System.IO
 
+let printMeanScore (row : string) = // putting the row : string in brackets indicates annotation not return type
+    let elements = row.Split('\t')
+    let name = elements.[0]
+    let id = elements.[1]
+    let score =
+        elements
+        |> Array.skip 2
+        |> Array.map float
+        
+    let meanScore = score |> Array.average // or use Array.averageBy float and get rid off the previous line
+    let minScore = score |> Array.min
+    let maxScore = score |> Array.max
+
+    printfn "%s\t%s\t%0.2f\t%0.2f\t%0.2f" name id meanScore minScore maxScore
+
 let summarise filePath = 
     printfn "Processing %s" filePath
     let rows = System.IO.File.ReadAllLines filePath
     let studenCount = (rows |> Array.length) - 1 // can use rows.Length
     printfn "Student count %i" studenCount
+    rows
+    |> Array.skip 1
+    |> Array.iter printMeanScore
 
 [<EntryPoint>]
 let main argv =
