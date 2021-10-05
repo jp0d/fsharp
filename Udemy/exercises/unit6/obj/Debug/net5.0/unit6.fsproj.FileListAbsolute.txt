@@ -1,0 +1,3 @@
+/Users/jajati.sahoo/Documents/code/fsharp/Udemy/exercises/unit6/obj/Debug/net5.0/unit6.fsproj.AssemblyReference.cache
+/Users/jajati.sahoo/Documents/code/fsharp/Udemy/exercises/unit6/obj/Debug/net5.0/unit6.AssemblyInfoInputs.cache
+/Users/jajati.sahoo/Documents/code/fsharp/Udemy/exercises/unit6/obj/Debug/net5.0/unit6.AssemblyInfo.fs
