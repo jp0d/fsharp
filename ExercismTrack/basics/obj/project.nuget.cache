@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtpXfS7gVi+iSPcdQtWmLC21QS//OO0rvbRxRsVINMERJdvAAifmSY1r3pEWEuOih6u8LPFNHX5I9hbrxHLdRg==",
+  "success": true,
+  "projectFilePath": "/Users/jajati.sahoo/Documents/code/fsharp/ExercismTrack/basics/basics.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jajati.sahoo/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
