@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPn/t+U/Owaqpsuxl3aqotKY0k4yECLzFI+gWqhKRIOk0d4FwNHI0+63oYjdSLMBiOI2DrJkiSb4a0F19jQXzw==",
+  "success": true,
+  "projectFilePath": "/Users/jajati.sahoo/Documents/code/fsharp/RiderProjects/ConsoleApp1/ConsoleApp1/ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jajati.sahoo/.nuget/packages/fsharp.core/6.0.4/fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

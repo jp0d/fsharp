@@ -1,0 +1,5 @@
+/Users/jajati.sahoo/Documents/code/fsharp/RiderProjects/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/jajati.sahoo/Documents/code/fsharp/RiderProjects/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jajati.sahoo/Documents/code/fsharp/RiderProjects/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/jajati.sahoo/Documents/code/fsharp/RiderProjects/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/jajati.sahoo/Documents/code/fsharp/RiderProjects/Solution1/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
